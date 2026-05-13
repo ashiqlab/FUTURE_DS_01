@@ -1,4 +1,8 @@
 # FUTURE_DS_01
+
+## Dashboard Preview
+<img width="879" height="497" alt="image" src="https://github.com/user-attachments/assets/399dde17-36bd-48d5-89b6-5c5e7809639d" />
+
 # Business Sales Performance Dashboard
 
 ## Project Overview
@@ -47,12 +51,6 @@ The dashboard helps businesses make data-driven decisions.
 - Focus marketing on top-performing categories
 - Optimize inventory in profitable regions
 - Increase seasonal promotional campaigns
-
----
-
-## Dashboard Preview
-<img width="879" height="497" alt="image" src="https://github.com/user-attachments/assets/7c65b0bd-159f-4e10-9da0-6ed7978df54a" />
-
 
 ---
 
