@@ -1,9 +1,10 @@
 # FUTURE_DS_01
 
+
+# Business Sales Performance Dashboard
 ## Dashboard Preview
 <img width="879" height="497" alt="image" src="https://github.com/user-attachments/assets/399dde17-36bd-48d5-89b6-5c5e7809639d" />
 
-# Business Sales Performance Dashboard
 
 ## Project Overview
 This project analyzes business sales data using Power BI to identify:
