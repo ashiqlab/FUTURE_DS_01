@@ -40,14 +40,12 @@ The dashboard helps businesses make data-driven decisions.
 - Technology category generated highest sales
 - West region contributed highest profit
 - Seasonal sales peaks identified
-- Some products have low profit margins despite high sales
 
 ---
 
 ## Recommendations
 - Focus marketing on top-performing categories
 - Optimize inventory in profitable regions
-- Reduce discounts on low-margin items
 - Increase seasonal promotional campaigns
 
 ---
