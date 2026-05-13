@@ -51,7 +51,8 @@ The dashboard helps businesses make data-driven decisions.
 ---
 
 ## Dashboard Preview
-(Add screenshot here)
+<img width="879" height="497" alt="image" src="https://github.com/user-attachments/assets/7c65b0bd-159f-4e10-9da0-6ed7978df54a" />
+
 
 ---
 
