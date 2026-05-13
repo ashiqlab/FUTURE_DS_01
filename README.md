@@ -60,5 +60,8 @@ The dashboard helps businesses make data-driven decisions.
 - dashboard.pdf
 - Screenshots
 
-## Created By
-   Ashiq Hussain V
+---
+
+## Author
+Created by Ashiq Hussain
+
